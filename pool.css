@@ -1,0 +1,91 @@
+.bg-container{
+    background-color:#0f6fdb;
+    height:250vh;
+    width:100vw
+}
+
+.container{
+    width:1100px;
+    height:500px;
+    background-image:url(pool-children1.jpeg);
+    background-size: cover;
+    text-align: center;
+    margin-left: 70px;
+    border-radius: 15px;
+    
+}
+H1{
+    padding-top: 220px;
+    color:black;
+    font-family: Arial;
+
+}
+P{
+    color:black;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 1px;
+}
+.image1{
+   width: 300px;
+   height:220px;
+   padding-top: 10px;
+   padding-right:8px ;
+   padding-left: 4px;
+   
+}
+.whitecard{
+    height:190px;
+    width:1150px;
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+
+}
+.discription{
+    
+    font-size: 20px;
+    padding-left: 5px;
+    color:#1248c7;
+    padding-right:10px ;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+}
+.highlets{
+    font-size: 21px;
+    color:#1248c7;
+    font-size: 17px;
+
+
+}
+.bottomcard{
+    height:200px;
+    width:1150px;
+  
+}
+.bottom-heading{
+    color:white;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 25px;
+}
+.bottomcard-para{
+    color:white;
+    font-size: 15px;
+    padding-left: 20px;
+    font-family: Arial;
+    
+}
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+
+}
+.icons{
+    color:white;
+    margin-left: 19px;
+}
